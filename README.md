@@ -1,2 +1,1 @@
-# philosophers
-42 Warsaw project
+The dining philosophers problem
